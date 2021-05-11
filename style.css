@@ -1,0 +1,57 @@
+/* #first-para{
+    background: red;
+    height: 200px;
+    width: 200px;
+    border: 4px solid gold;
+} */
+
+
+body{
+    background: rgb(13, 0, 44);
+}
+
+.search #usrInput{
+    padding: 15px;
+    border-radius: 8px;
+    background: rgb(255, 248, 248);
+    color: rgb(255, 17, 0);
+    border: none;
+}
+
+.search .btn{
+    border: none;
+    padding: 13px 24px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: red;
+    color: white;
+    cursor: pointer;
+}
+
+.search{
+    text-align: center;
+}
+
+
+
+
+.search .btn:hover{
+    background: rgb(155, 0, 0);
+}
+
+
+.search h2{
+    color: white;
+    margin-top: 100px;
+}
+
+
+h4{
+    color: red;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.search h1{
+    color: white;
+}

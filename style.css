@@ -30,6 +30,7 @@ body{
 
 .search{
     text-align: center;
+    
 }
 
 
@@ -42,7 +43,7 @@ body{
 
 .search h2{
     color: white;
-    margin-top: 100px;
+    margin-top: 40px;
 }
 
 
@@ -54,4 +55,17 @@ h4{
 
 .search h1{
     color: white;
+}
+
+
+
+.circle{
+    width: 70px;
+    height: 70px;
+    border: 5px solid rgb(0, 217, 255);
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }

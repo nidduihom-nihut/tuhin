@@ -80,8 +80,32 @@ btn.addEventListener("click", function () {
     else if (input.value === 'twitter'){
         window.open('https://twitter.com/');
     }
-    else if (input.value === 'tuhin'){
+    else if (input.value === 'tuhin'){   /** Persoanl Site*/
         window.open('tuhin.html')
+    }
+    else if (input.value === 'gmail'){
+        window.open('https://mail.google.com/')
+    }
+    else if (input.value === 'pirate bay'){
+        window.open('https://thepiratebay.org/index.html')
+    }
+    else if (input.value === 'github'){
+        window.open('https://github.com/')
+    }
+    else if (input.value === 'kissasian'){
+        window.open('https://kissasian.cam/')
+    }
+    else if (input.value === 'wikipedia'){
+        window.open('https://www.wikipedia.org/')
+    }
+    else if (input.value === 'wikipedia'){
+        window.open('https://www.wikipedia.org/')
+    }
+    else if (input.value === 'fari'){
+        window.open('fp.html');           /**Farihaaa Paaarvin Site */
+    }
+    else if (input.value === 'taspin'){
+        window.open('taspin.html')     /****************Tasmin Taslima Site********************** */
     }
     else {
         alert("sorry bitch!")

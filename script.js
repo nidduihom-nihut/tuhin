@@ -81,7 +81,7 @@ btn.addEventListener("click", function () {
         window.open('https://twitter.com/');
     }
     else if (input.value === 'tuhin'){   /** Persoanl Site*/
-        window.open('tuhin.html')
+        window.open('site/tuhin.html')
     }
     else if (input.value === 'gmail'){
         window.open('https://mail.google.com/')
@@ -102,10 +102,10 @@ btn.addEventListener("click", function () {
         window.open('https://www.wikipedia.org/')
     }
     else if (input.value === 'fari'){
-        window.open('fp.html');           /**Farihaaa Paaarvin Site */
+        window.open('site/fp.html');           /**Farihaaa Paaarvin Site */
     }
     else if (input.value === 'taspin'){
-        window.open('taspin.html')     /****************Tasmin Taslima Site********************** */
+        window.open('site/taspin.html')     /****************Tasmin Taslima Site********************** */
     }
     else {
         alert("sorry bitch!")

@@ -107,6 +107,9 @@ btn.addEventListener("click", function () {
     else if (input.value === 'taspin'){
         window.open('site/taspin.html')     /****************Tasmin Taslima Site********************** */
     }
+    else if (input.value === 'Bichi'){
+        window.open('site/richi.html')     /****************Samia Jaman Site********************** */
+    }
     else {
         alert("sorry bitch!")
     }

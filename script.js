@@ -80,7 +80,7 @@ btn.addEventListener("click", function () {
     else if (input.value === 'twitter'){
         window.open('https://twitter.com/');
     }
-    else if (input.value === 'tuhin'){   /** Persoanl Site*/
+    else if (input.value === 'thetuhin'){   /** Persoanl Site*/
         window.open('site/tuhin.html')
     }
     else if (input.value === 'gmail'){
@@ -104,11 +104,14 @@ btn.addEventListener("click", function () {
     else if (input.value === 'fari'){
         window.open('site/fp.html');           /**Farihaaa Paaarvin Site */
     }
-    else if (input.value === 'taspin'){
+    else if (input.value === 'Taspin' || input.value === 'taspin'){
         window.open('site/taspin.html')     /****************Tasmin Taslima Site********************** */
     }
-    else if (input.value === 'Bichi'){
-        window.open('site/richi.html')     /****************Samia Jaman Site********************** */
+    else if (input.value === 'Bichi' || input.value === 'bichi'){
+        window.open('site/richi.html')     /****************Samia Jam Site********************** */
+    }
+    else if (input.value === 'Sneha' || input.value === 'sneha' ){
+        window.open('site/sneha.html')     /****************sneha Site********************** */
     }
     else {
         alert("sorry bitch!")

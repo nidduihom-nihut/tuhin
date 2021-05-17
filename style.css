@@ -42,14 +42,13 @@ body{
 
 
 .search h2{
-    color: white;
-    margin-top: 40px;
+    color: rgb(0, 162, 255);
 }
 
 
 h4{
     color: red;
-    margin-top: 300px;
+    margin-top: 200px;
     text-align: center;
 }
 

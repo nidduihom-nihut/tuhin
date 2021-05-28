@@ -108,10 +108,19 @@ btn.addEventListener("click", function () {
         window.open('site/taspin.html')     /****************Tasmin Taslima Site********************** */
     }
     else if (input.value === 'Bichi' || input.value === 'bichi'){
-        window.open('site/richi.html')     /****************Samia Jam Site********************** */
+        window.open('site/richi.html')     /****************Samia Jaman Site********************** */
     }
     else if (input.value === 'Sneha' || input.value === 'sneha' ){
         window.open('site/sneha.html')     /****************sneha Site********************** */
+    }
+    else if(input.value === 'yeasmin' || input.value === 'Yeasmin'){
+        window.open('site/yeasin.html')     /****************yeasin Site********************** */
+    }
+    else if(input.value === 'dim' || input.value === 'Dim'){
+        window.open('site/dim.html')        /****************Dim Site********************** */
+    }
+    else if(input.value === 'lobon' || input.value === 'Lobon'){
+        window.open('site/lobon.html')
     }
     else {
         alert("sorry bitch!")
